@@ -1,0 +1,44 @@
+
+Directory 
+   cd d:/  switches to the D directory
+
+1.  Get GIT HUB
+    https://git-scm.com/
+
+2.  Get Version 
+    git --version
+
+3.  Initialize (go inside folder and run this command)
+    git init
+
+    * creates .git folder (it is a hidden folder)
+    * to see run ls -la
+
+4.  git add GIT-NOTES.txt 
+    git status
+
+    git add .          add all  the data
+    git add *.html     add all  the html data
+
+
+5.  Commiting a file 
+    git commit -m "revision of a file"
+    
+    # user name information
+    git config --global user.email "jbbwebsolutions@gmail.com"
+    git config --global user.name "jean boulet"
+
+6.  git checkout GIT-NOTES.txt
+
+
+7.  Create a .gitignore  file 
+
+8.  git remote
+    git remote -v    # this will return us alias 
+
+9.  git fetch origin
+
+10.  git push origin master
+------------------------------------------------------------------------------------
+
+
