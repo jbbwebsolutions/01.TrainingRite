@@ -1,0 +1,11 @@
+#git clone https:\\addres.git
+
+
+
+#Signing up for an account
+https://github.com/
+
+
+uid:jbbwebsolt
+email:jbbwebsolutions@gmail.com
+pwd:lucien1369
